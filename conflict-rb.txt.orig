@@ -1,0 +1,7 @@
+ligne1
+ligne2
+<<<<<<< HEAD
+Je modifie la ligne3
+=======
+Je modifie le ligne3 dans master
+>>>>>>> 059df63 (Génération du conflit : Modification de la ligne 3 de conflict-rb.txt dans master)
